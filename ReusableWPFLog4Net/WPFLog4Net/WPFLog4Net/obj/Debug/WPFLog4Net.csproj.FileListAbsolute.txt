@@ -1,0 +1,36 @@
+C:\Users\user\Desktop\WPFLog4Net\WPFLog4Net\bin\Debug\WPFLog4Net.exe.config
+C:\Users\user\Desktop\WPFLog4Net\WPFLog4Net\obj\Debug\WPFLog4Net.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WPFLog4Net\WPFLog4Net\obj\Debug\Demo.g.cs
+C:\Users\user\Desktop\WPFLog4Net\WPFLog4Net\obj\Debug\App.g.cs
+C:\Users\user\Desktop\WPFLog4Net\WPFLog4Net\obj\Debug\WPFLog4Net_MarkupCompile.cache
+C:\Users\user\Desktop\WPFLog4Net\WPFLog4Net\obj\Debug\WPFLog4Net_MarkupCompile.lref
+C:\Users\user\Desktop\WPFLog4Net\WPFLog4Net\bin\Debug\WPFLog4Net.exe
+C:\Users\user\Desktop\WPFLog4Net\WPFLog4Net\bin\Debug\WPFLog4Net.pdb
+C:\Users\user\Desktop\WPFLog4Net\WPFLog4Net\bin\Debug\log4net.dll
+C:\Users\user\Desktop\WPFLog4Net\WPFLog4Net\bin\Debug\log4net.xml
+C:\Users\user\Desktop\WPFLog4Net\WPFLog4Net\obj\Debug\Demo.baml
+C:\Users\user\Desktop\WPFLog4Net\WPFLog4Net\obj\Debug\WPFLog4Net.g.resources
+C:\Users\user\Desktop\WPFLog4Net\WPFLog4Net\obj\Debug\WPFLog4Net.Properties.Resources.resources
+C:\Users\user\Desktop\WPFLog4Net\WPFLog4Net\obj\Debug\WPFLog4Net.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\WPFLog4Net\WPFLog4Net\obj\Debug\WPFLog4Net.exe
+C:\Users\user\Desktop\WPFLog4Net\WPFLog4Net\obj\Debug\WPFLog4Net.pdb
+C:\Users\user\Desktop\WPFLog4Net\WPFLog4Net\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\WPFLog4Net\WPFLog4Net\bin\Debug\Newtonsoft.Json.xml
+F:\Kiran\Code Library Articles\ReusableWPFLog4Net\WPFLog4Net\WPFLog4Net\bin\Debug\WPFLog4Net.exe.config
+F:\Kiran\Code Library Articles\ReusableWPFLog4Net\WPFLog4Net\WPFLog4Net\obj\Debug\WPFLog4Net.exe
+F:\Kiran\Code Library Articles\ReusableWPFLog4Net\WPFLog4Net\WPFLog4Net\obj\Debug\WPFLog4Net.pdb
+F:\Kiran\Code Library Articles\ReusableWPFLog4Net\WPFLog4Net\WPFLog4Net\bin\Debug\WPFLog4Net.exe
+F:\Kiran\Code Library Articles\ReusableWPFLog4Net\WPFLog4Net\WPFLog4Net\bin\Debug\WPFLog4Net.pdb
+F:\Kiran\Code Library Articles\ReusableWPFLog4Net\WPFLog4Net\WPFLog4Net\bin\Debug\log4net.dll
+F:\Kiran\Code Library Articles\ReusableWPFLog4Net\WPFLog4Net\WPFLog4Net\bin\Debug\Newtonsoft.Json.dll
+F:\Kiran\Code Library Articles\ReusableWPFLog4Net\WPFLog4Net\WPFLog4Net\bin\Debug\log4net.xml
+F:\Kiran\Code Library Articles\ReusableWPFLog4Net\WPFLog4Net\WPFLog4Net\bin\Debug\Newtonsoft.Json.xml
+F:\Kiran\Code Library Articles\ReusableWPFLog4Net\WPFLog4Net\WPFLog4Net\obj\Debug\WPFLog4Net.csprojResolveAssemblyReference.cache
+F:\Kiran\Code Library Articles\ReusableWPFLog4Net\WPFLog4Net\WPFLog4Net\obj\Debug\Demo.g.cs
+F:\Kiran\Code Library Articles\ReusableWPFLog4Net\WPFLog4Net\WPFLog4Net\obj\Debug\App.g.cs
+F:\Kiran\Code Library Articles\ReusableWPFLog4Net\WPFLog4Net\WPFLog4Net\obj\Debug\WPFLog4Net_MarkupCompile.cache
+F:\Kiran\Code Library Articles\ReusableWPFLog4Net\WPFLog4Net\WPFLog4Net\obj\Debug\WPFLog4Net_MarkupCompile.lref
+F:\Kiran\Code Library Articles\ReusableWPFLog4Net\WPFLog4Net\WPFLog4Net\obj\Debug\Demo.baml
+F:\Kiran\Code Library Articles\ReusableWPFLog4Net\WPFLog4Net\WPFLog4Net\obj\Debug\WPFLog4Net.g.resources
+F:\Kiran\Code Library Articles\ReusableWPFLog4Net\WPFLog4Net\WPFLog4Net\obj\Debug\WPFLog4Net.Properties.Resources.resources
+F:\Kiran\Code Library Articles\ReusableWPFLog4Net\WPFLog4Net\WPFLog4Net\obj\Debug\WPFLog4Net.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.exe.config
+F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.exe
+F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.pdb
+F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\obj\x86\Release\WindowsServiceDemo.ProjectInstaller.resources
+F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\obj\x86\Release\WindowsServiceDemo.csproj.GenerateResource.Cache
+F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\obj\x86\Release\WindowsServiceDemo.exe
+F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\obj\x86\Release\WindowsServiceDemo.pdb

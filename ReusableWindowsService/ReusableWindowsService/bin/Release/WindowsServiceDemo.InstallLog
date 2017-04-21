@@ -1,0 +1,47 @@
+﻿Installing assembly 'F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.InstallLog
+   assemblypath = F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.exe
+   logtoconsole = 
+Installing service DemoService...
+Service DemoService has been successfully installed.
+Creating EventLog source DemoService in log Application...
+Committing assembly 'F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.InstallLog
+   assemblypath = F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.exe
+   logtoconsole = 
+Uninstalling assembly 'F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.InstallLog
+   assemblypath = F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.exe
+Removing EventLog source DemoService.
+Service DemoService is being removed from the system...
+Service DemoService was successfully removed from the system.
+Installing assembly 'F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.InstallLog
+   assemblypath = F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.exe
+   logtoconsole = 
+Installing service DemoService...
+Service DemoService has been successfully installed.
+Creating EventLog source DemoService in log Application...
+Committing assembly 'F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.InstallLog
+   assemblypath = F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.exe
+   logtoconsole = 
+Uninstalling assembly 'F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.InstallLog
+   assemblypath = F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Release\WindowsServiceDemo.exe
+Removing EventLog source DemoService.
+Service DemoService is being removed from the system...
+Service DemoService was successfully removed from the system.
+Attempt to stop service DemoService.

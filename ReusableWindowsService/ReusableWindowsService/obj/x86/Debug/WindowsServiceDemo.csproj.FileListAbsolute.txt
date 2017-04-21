@@ -1,0 +1,8 @@
+F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\obj\x86\Debug\WindowsServiceDemo.csprojResolveAssemblyReference.cache
+F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\obj\x86\Debug\WindowsServiceDemo.csproj.GenerateResource.Cache
+F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\obj\x86\Debug\WindowsServiceDemo.ProjectInstaller.resources
+F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Debug\WindowsServiceCS.exe.config
+F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Debug\WindowsServiceCS.exe
+F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\bin\Debug\WindowsServiceCS.pdb
+F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\obj\x86\Debug\WindowsServiceCS.exe
+F:\Kiran\Code Library Articles\ReusableWindowsService\ReusableWindowsService\obj\x86\Debug\WindowsServiceCS.pdb

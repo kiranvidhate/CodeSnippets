@@ -1,0 +1,25 @@
+
+
+2015-09-29 12:29:37,595 
+WPFLog4Net.App                         [(null)] 
+>> Hello World
+
+
+2015-09-29 12:29:39,648 
+WPFLog4Net.Demo                         [(null)] 
+>> Error while downloading data
+
+
+2015-09-29 14:38:31,089 
+WPFLog4Net.App                         [(null)] 
+>> Hello World
+
+
+2015-09-29 14:38:32,976 
+WPFLog4Net.Demo                         [(null)] 
+>> {"Module":"Test Module","DateTime":"2015-09-29T14:38:32.9749532+05:30","Status":"Test Status","DestinationType":"Test Destination Type","CompanyName":"Test Company Name","Message":"Test Message","UserId":1,"WebAddress":" Test Web Address "}
+
+
+2015-09-29 14:38:33,102 
+WPFLog4Net.Demo                         [(null)] 
+>> Error while downloading data

@@ -1,0 +1,7 @@
+Simple Service started 23/11/2015 11:23:00 AM
+Simple Service Mode: INTERVAL 23/11/2015 11:23:00 AM
+Simple Service scheduled to run after: 0 day(s) 0 hour(s) 1 minute(s) 0 seconds(s) 23/11/2015 11:23:00 AM
+Simple Service Log: 23/11/2015 11:24:00 AM
+Simple Service Mode: INTERVAL 23/11/2015 11:24:00 AM
+Simple Service scheduled to run after: 0 day(s) 0 hour(s) 1 minute(s) 0 seconds(s) 23/11/2015 11:24:00 AM
+Simple Service stopped 23/11/2015 11:24:53 AM

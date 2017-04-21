@@ -1,0 +1,16 @@
+C:\Users\user\Downloads\WindowsService\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe.config
+C:\Users\user\Downloads\WindowsService\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe
+C:\Users\user\Downloads\WindowsService\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.pdb
+C:\Users\user\Downloads\WindowsService\WindowsService\WindowsServiceCS\obj\x86\Release\WindowsServiceCS.ProjectInstaller.resources
+C:\Users\user\Downloads\WindowsService\WindowsService\WindowsServiceCS\obj\x86\Release\WindowsServiceCS.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\WindowsService\WindowsService\WindowsServiceCS\obj\x86\Release\WindowsServiceCS.exe
+C:\Users\user\Downloads\WindowsService\WindowsService\WindowsServiceCS\obj\x86\Release\WindowsServiceCS.pdb
+C:\Users\user\Downloads\WindowsService\WindowsService\WindowsServiceCS\obj\x86\Release\WindowsServiceCS.csprojResolveAssemblyReference.cache
+D:\Practice\WindowsService\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe.config
+D:\Practice\WindowsService\WindowsService\WindowsServiceCS\obj\x86\Release\WindowsServiceCS.exe
+D:\Practice\WindowsService\WindowsService\WindowsServiceCS\obj\x86\Release\WindowsServiceCS.pdb
+D:\Practice\WindowsService\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe
+D:\Practice\WindowsService\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.pdb
+D:\Practice\WindowsService\WindowsService\WindowsServiceCS\obj\x86\Release\WindowsServiceCS.csprojResolveAssemblyReference.cache
+D:\Practice\WindowsService\WindowsService\WindowsServiceCS\obj\x86\Release\WindowsServiceCS.ProjectInstaller.resources
+D:\Practice\WindowsService\WindowsService\WindowsServiceCS\obj\x86\Release\WindowsServiceCS.csproj.GenerateResource.Cache

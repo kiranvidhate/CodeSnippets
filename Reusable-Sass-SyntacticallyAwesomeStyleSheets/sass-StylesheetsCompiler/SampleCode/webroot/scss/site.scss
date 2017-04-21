@@ -1,0 +1,20 @@
+/*!
+Theme Name: MyTheme
+*/
+
+// ==========================================================================
+// Main Sass file
+// ==========================================================================
+
+// First import things like compass mixins and includes
+// ==========================================================================
+@charset "UTF-8";
+
+@import "compass/css3";
+
+// Config file contains Sass variables
+// ==========================================================================
+@import "config";
+
+@import "home";
+@import "forms";

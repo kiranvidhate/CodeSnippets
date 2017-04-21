@@ -1,0 +1,15 @@
+﻿<ResourceDictionary x:Class="WPF_Globalization.Resources.EnglishUS"
+                    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+                    xmlns:s="clr-namespace:System;assembly=mscorlib"
+                    mc:Ignorable="d">
+    <s:String x:Key="keyEmployeeName">Employee Name:</s:String>
+    <s:String x:Key="keyAddress">Address:</s:String>
+    <s:String x:Key="keyCountry">Country:</s:String>
+    <s:String x:Key="keyState">State:</s:String>
+    <s:String x:Key="keyCity">City:</s:String>
+    <s:String x:Key="keyPhone">Phone Number:</s:String>
+    <s:String x:Key="keyDesignation">Designation:</s:String>
+</ResourceDictionary>
