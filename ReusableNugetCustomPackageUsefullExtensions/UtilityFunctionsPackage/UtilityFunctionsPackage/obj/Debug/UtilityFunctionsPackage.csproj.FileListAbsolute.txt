@@ -1,0 +1,5 @@
+D:\NuGetTestPackage\UtilityFunctionsPackage\UtilityFunctionsPackage\obj\Debug\UtilityFunctionsPackage.csprojResolveAssemblyReference.cache
+D:\NuGetTestPackage\UtilityFunctionsPackage\UtilityFunctionsPackage\bin\Debug\UtilityFunctionsPackage.dll
+D:\NuGetTestPackage\UtilityFunctionsPackage\UtilityFunctionsPackage\bin\Debug\UtilityFunctionsPackage.pdb
+D:\NuGetTestPackage\UtilityFunctionsPackage\UtilityFunctionsPackage\obj\Debug\UtilityFunctionsPackage.dll
+D:\NuGetTestPackage\UtilityFunctionsPackage\UtilityFunctionsPackage\obj\Debug\UtilityFunctionsPackage.pdb

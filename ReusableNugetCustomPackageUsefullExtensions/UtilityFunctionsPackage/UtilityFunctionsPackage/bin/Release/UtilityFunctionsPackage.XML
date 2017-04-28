@@ -1,0 +1,310 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UtilityFunctionsPackage</name>
+    </assembly>
+    <members>
+        <member name="M:UtilityFunctionsPackage.Extensions.RSACryptoServiceProviderExtensions.Encrypt(System.String,System.String)">
+            <summary>
+            Encryptes a string using the supplied key. Encoding is done using RSA encryption.
+            </summary>
+            <param name="stringToEncrypt">String that must be encrypted.</param>
+            <param name="key">Encryptionkey.</param>
+            <returns>A string representing a byte array separated by a minus sign.</returns>
+            <exception cref="T:System.ArgumentException">Occurs when stringToEncrypt or key is null or empty.</exception>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Extensions.RSACryptoServiceProviderExtensions.Decrypt(System.String,System.String)">
+            <summary>
+            Decryptes a string using the supplied key. Decoding is done using RSA encryption.
+            </summary>
+            <param name="stringToDecrypt">String that must be decrypted.</param>
+            <param name="key">Decryptionkey.</param>
+            <returns>The decrypted string or null if decryption failed.</returns>
+            <exception cref="T:System.ArgumentException">Occurs when stringToDecrypt or key is null or empty.</exception>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Extensions.EnumerableExtensions.ToDictionary``2(System.Collections.Generic.IEnumerable{System.Linq.IGrouping{``0,``1}})">
+            <summary>
+            Converts an enumeration of groupings into a Dictionary of those groupings.
+            </summary>
+            <typeparam name="TKey">Key type of the grouping and dictionary.</typeparam>
+            <typeparam name="TValue">Element type of the grouping and dictionary list.</typeparam>
+            <param name="groupings">The enumeration of groupings from a GroupBy() clause.</param>
+            <returns>A dictionary of groupings such that the key of the dictionary is TKey type and the value is List of TValue type.</returns>
+        </member>
+        <member name="T:UtilityFunctionsPackage.Functions">
+            <summary>
+            Class for userful funcitons
+            </summary>
+        </member>
+        <member name="F:UtilityFunctionsPackage.Functions.chkFileExistcallcount">
+            <summary>
+            Check if file exists or not
+            </summary>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.ParseInteger(System.String)">
+            <summary>
+            Parses the integer.
+            </summary>
+            <param name="intValue">The int value.</param>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.ParseDecimal(System.String)">
+            <summary>
+            Parses the decimal.
+            </summary>
+            <param name="decValue">The dec value.</param>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.ParseDouble(System.String)">
+            <summary>
+            Parses the double.
+            </summary>
+            <param name="dobValue">The dob value.</param>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.ParseString(System.Object)">
+            <summary>
+            Parses the string.
+            </summary>
+            <param name="strValue">The STR value.</param>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.ParseLong(System.String)">
+            <summary>
+            Parses the long.
+            </summary>
+            <param name="lngValue">The LNG value.</param>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.ParseBoolean(System.String)">
+            <summary>
+            Parses the boolean.
+            </summary>
+            <param name="boolValue">The bool value.</param>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.ParseDateTime(System.String)">
+            <summary>
+            Parses the date time.
+            </summary>
+            <param name="dateTimeValue">The date time value.</param>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.HasColumn(System.Data.DataTableReader,System.String)">
+            <summary>
+            Determines whether the specified DataTableReader has column.
+            </summary>
+            <param name="dr">The dr.</param>
+            <param name="columnName">Name of the column.</param>
+            <returns>
+            	<c>true</c> if the specified dr has column; otherwise, <c>false</c>.
+            </returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.ValidateStringLength(System.String,System.Int32)">
+            <summary>
+            Validates the length of the string.
+            </summary>
+            <param name="value">The value.</param>
+            <param name="length">The length.</param>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.FormatDate(System.String)">
+            <summary>
+            Formats the date.
+            </summary>
+            <param name="date">The date.</param>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.IsNullOrEmpty(System.Object)">
+            <summary>
+            Determines whether [is null or empty] [the specified value].
+            </summary>
+            <param name="value">The value.</param>
+            <returns>
+            	<c>true</c> if [is null or empty] [the specified value]; otherwise, <c>false</c>.
+            </returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.IsValidEmail(System.String)">
+            <summary>
+            Determines whether [is valid email] [the specified value].
+            </summary>
+            <param name="value">The value.</param>
+            <returns>
+            	<c>true</c> if [is valid email] [the specified value]; otherwise, <c>false</c>.
+            </returns>
+            
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.IsAlphaNumeric(System.String)">
+            <summary>
+            Determines whether [is alpha numeric] [the specified value].
+            </summary>
+            <param name="value">The value.</param>
+            <returns>
+            	<c>true</c> if [is alpha numeric] [the specified value]; otherwise, <c>false</c>.
+            </returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.IsValidLicenseKey(System.String)">
+            <summary>
+            Determines whether [is valid license key] [the specified value].
+            </summary>
+            <param name="value">The value.</param>
+            <returns>
+              <c>true</c> if [is valid license key] [the specified value]; otherwise, <c>false</c>.
+            </returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.IsValidUrl(System.String)">
+            <summary>
+            Determines whether [is valid URL] [the specified value].
+            </summary>
+            <param name="value">The value.</param>
+            <returns>
+            	<c>true</c> if [is valid URL] [the specified value]; otherwise, <c>false</c>.
+            </returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.RegularExpression(System.String)">
+            <summary>
+            Regulars the expression.
+            </summary>
+            <param name="key">The key.</param>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.IsItNumber(System.String)">
+            <summary>
+            Determines whether [is it number] [the specified inputvalue].
+            </summary>
+            <param name="inputvalue">The inputvalue.</param>
+            <returns>
+              <c>true</c> if [is it number] [the specified inputvalue]; otherwise, <c>false</c>.
+            </returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.CreateRandomPassword(System.Int32)">
+            <summary>
+            Creates the random password.
+            </summary>
+            <param name="passwordLength">Length of the password.</param>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.GetCommonDataPath">
+            <summary>
+            Gets the common data path.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.EncodePassword(System.String)">
+            <summary>
+            Encodes the password.
+            </summary>
+            <param name="originalPassword">The original password.</param>
+            <returns></returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.GetReplaceQuote(System.String)">
+            <summary>
+            Gets replace the qoute inorder to avoid sql inject attack.
+            </summary>
+            <returns></returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.ConvertSecondsToHHMMSS(System.Double)">
+            <summary>
+            Converts seconds to HH:MM:SS format.
+            </summary>
+            <param name="seconds">The seconds.</param>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.ConvertSecondsToMMSS(System.Double)">
+            <summary>
+            Converts the seconds to MMSS.
+            </summary>
+            <param name="seconds">The seconds.</param>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.ConvertMintuesToMMSS(System.Double)">
+            <summary>
+            Converts the seconds to MM.
+            </summary>
+            <param name="seconds">The seconds.</param>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.ConvertHHMMSSToSeconds(System.String)">
+            <summary>
+            Converts HH:MM:SS to seconds format.
+            </summary>
+            <param name="seconds">The time.</param>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.ConvertSecondsToMM(System.Double)">
+            <summary>
+            Converts the seconds to MM.
+            </summary>
+            <param name="seconds">The seconds.</param>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.IsFileExists(System.String)">
+            <summary>
+            Determines whether [is file exists] [the specified file name].
+            </summary>
+            <param name="fileName">Name of the file.</param>
+            <returns>
+              <c>true</c> if [is file exists] [the specified file name]; otherwise, <c>false</c>.
+            </returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.EncodeToMD5(System.String)">
+            <summary>
+            Encodes string to MD5.
+            </summary>
+            <param name="value">The value.</param>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.EncodeTo64(System.String)">
+            <summary>
+            Base64 encoding
+            </summary>
+            <param name="toEncode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.DecodeFrom64(System.String)">
+            <summary>
+            BAse64 decoding
+            </summary>
+            <param name="encodedData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.IsAdministrator">
+            <summary>
+            Determines whether this instance is administrator.
+            </summary>
+            <returns>
+              <c>true</c> if this instance is administrator; otherwise, <c>false</c>.
+            </returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.ToTitleCase(System.String)">
+            <summary>
+            Set string to the Title case.
+            </summary>
+            <param name="value">The value.</param>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.GetScreenWidth">
+            <summary>
+            Gets the width of the screen.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.GetScreenHeight">
+            <summary>
+            Gets the height of the screen.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UtilityFunctionsPackage.Functions.IsFileAvailable(System.String)">
+            <summary>
+            Determines whether file is available and not locked for use.
+            </summary>
+            <param name="file">The file name.</param>
+            <returns>
+              <c>true</c> if [is file locked] [the specified file]; otherwise, <c>false</c>.
+            </returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Usefull Extension Functions</id>
+    <version>1.0</version>
+    <authors>Kiran Vidhate</authors>
+    <owners>Kiran Vidhate</owners>
+    <licenseUrl>http://www.google.co.in</licenseUrl>
+    <projectUrl>http://www.google.co.in</projectUrl>
+    <iconUrl>http://www.google.co.in</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package description</description>
+    <tags>Tag1 Tag2</tags>
+    <dependencies>
+      <dependency id="SampleDependency" version="1.0" />
+    </dependencies>
+  </metadata>
+</package>
