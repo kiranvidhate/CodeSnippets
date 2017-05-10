@@ -1,0 +1,11 @@
+http://www.codeproject.com/Articles/426769/Creating-a-REST-service-using-ASP-NET-Web-API
+http://www.c-sharpcorner.com/UploadFile/kalisk/Asp-Net-4-5-new-features/
+http://www.xfront.com/REST-Web-Services.html
+https://docs.oracle.com/javaee/6/tutorial/doc/gijqy.html
+http://stackoverflow.com/questions/2131965/main-differences-between-soap-and-restful-web-services-in-java
+http://stackoverflow.com/questions/9348639/wcf-vs-asp-net-web-api
+http://www.codeproject.com/Articles/341414/WCF-or-ASP-NET-Web-APIs-My-two-cents-on-the-subjec
+http://msdn.microsoft.com/en-us/library/ee391967.aspx
+http://www.asp.net/web-api/overview/older-versions/build-restful-apis-with-aspnet-web-api#Exercise1
+http://www.asp.net/web-api/overview/older-versions/build-restful-apis-with-aspnet-web-api#Exercise2
+http://www.asp.net/web-api/overview/older-versions/build-restful-apis-with-aspnet-web-api#Exercise3
