@@ -1,4 +1,0 @@
-RESTful Web API Help Documentation using Swagger UI and Swashbuckle
-
-
-https://www.codeproject.com/Articles/1078249/RESTful-Web-API-Help-Documentation-using-Swagger-U

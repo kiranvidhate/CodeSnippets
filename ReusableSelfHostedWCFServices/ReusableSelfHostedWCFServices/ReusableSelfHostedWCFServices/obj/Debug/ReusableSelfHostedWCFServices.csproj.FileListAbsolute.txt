@@ -1,5 +1,0 @@
-C:\Users\user\Downloads\ReusableSelfHostedWCFServices\ReusableSelfHostedWCFServices\ReusableSelfHostedWCFServices\bin\Debug\netZcom.exe.config
-C:\Users\user\Downloads\ReusableSelfHostedWCFServices\ReusableSelfHostedWCFServices\ReusableSelfHostedWCFServices\bin\Debug\netZcom.exe
-C:\Users\user\Downloads\ReusableSelfHostedWCFServices\ReusableSelfHostedWCFServices\ReusableSelfHostedWCFServices\bin\Debug\netZcom.pdb
-C:\Users\user\Downloads\ReusableSelfHostedWCFServices\ReusableSelfHostedWCFServices\ReusableSelfHostedWCFServices\obj\Debug\netZcom.exe
-C:\Users\user\Downloads\ReusableSelfHostedWCFServices\ReusableSelfHostedWCFServices\ReusableSelfHostedWCFServices\obj\Debug\netZcom.pdb
